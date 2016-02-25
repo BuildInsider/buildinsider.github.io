@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "※本ページは検証中です!"
 date:   2016-02-25 19:00:56 +0900
 categories: jekyll update
 ---
